@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\Poylimorphism.exe
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\Poylimorphism.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\Poylimorphism.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\Poylimorphism.dll
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\ref\Poylimorphism.dll
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\bin\Debug\net6.0-windows\Poylimorphism.pdb
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.dll
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\ref\Poylimorphism.dll
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.pdb
+C:\Users\ASUS\Desktop\Projects\C#\Poylimorphism\Poylimorphism\obj\Debug\net6.0-windows\Poylimorphism.genruntimeconfig.cache

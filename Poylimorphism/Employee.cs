@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Poylimorphism
+{
+    public class Employee
+    {
+        public int EmployeeId { get; set; } 
+        public string? EmployeeName { get; set; }
+        public double EmployeeSalary { get; set; }
+
+ 
+
+        public void setValue(int Id)
+        {
+            EmployeeId   = Id;   
+        }
+
+        public void setValue(int Id, string Name)
+        {
+            EmployeeId = Id;
+            EmployeeName= Name;
+        }
+        public void setValue(int Id, string Name, double Salary)
+        {
+            EmployeeId = Id;
+            EmployeeName = Name;
+            EmployeeSalary = Salary;
+        }
+    }
+}
